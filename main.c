@@ -14,7 +14,7 @@ int main(){
     double sum_group = 0; //to calculate the total score for all students
     int best_average = 0; //to calculate the student with the best average score
 
-    //read input data
+    //read input data: names and points for each student
     for (int i = 0; i<5; i++){
         scanf("%10s", name[i]); //scans the names, 10 characters each
         // scans the 13 scores for each student

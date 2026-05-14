@@ -1,7 +1,7 @@
 //Write your code in this file
-#include <stdio.h>
-#include <string.h>
-#include <ctype.h>
+#include <stdio.h> //normal input output
+#include <string.h> //for string length
+#include <ctype.h> //for lower/uppercase
 
 int main(){
     //array names, 5 rows, 11 characters per name (10 + null terminator)
